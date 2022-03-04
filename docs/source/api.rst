@@ -1,9 +1,7 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated/
-   :nosignatures:
-   :noindex:
+.. toctree::
+    :maxdepth: 1
    
-   lumache.get_random_ingredients
+    lumache
