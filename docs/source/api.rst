@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache.get_random_ingredients
+.. autofunction:: lumache.get_random_ingredients
