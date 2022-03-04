@@ -3,9 +3,4 @@
 Lumache
 =======
 
-.. autosummary::
-   :toctree: generated/
-   :nosignatures:
-   :noindex:
-   
-   lumache.get_random_ingredients
+.. autofunction:: lumache.get_random_ingredients
