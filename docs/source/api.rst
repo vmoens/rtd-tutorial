@@ -2,6 +2,7 @@ API
 ===
 
 .. autosummary::
-   :toctree: generated
-
-.. autofunction:: lumache.get_random_ingredients
+   :toctree: generated/
+   :nosignatures:
+   
+   lumache.get_random_ingredients
