@@ -1,4 +1,4 @@
-.. module:: optuna.integration
+.. module:: lumache
 
 Lumache
 =======
